@@ -1,6 +1,6 @@
 import { parse } from 'acorn'
 import { inspect } from 'node:util';
-import config from './build.config.js'
+import config from '../build.config.js'
 import fs from 'fs/promises'
 import path from 'path'
 async function readSource () {

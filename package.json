@@ -2,7 +2,7 @@
   "name": "acorn",
   "version": "1.0.0",
   "description": "",
-  "main": "build.js",
+  "main": "script/build.js",
   "dependencies": {
     "acorn": "^8.8.0"
   },
